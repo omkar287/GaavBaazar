@@ -13,7 +13,7 @@ import WebView from 'react-native-webview';
 import NetInfo from '@react-native-community/netinfo';
 import InAppBrowser from 'react-native-inappbrowser-reborn';
 
-const WEBSITE_URL = 'https://gav-mart-customers.pranitc93.workers.dev';
+const WEBSITE_URL = 'https://gaavbaazar.com';
 
 function App() {
   useEffect(() => {
